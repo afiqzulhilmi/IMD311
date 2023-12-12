@@ -1,0 +1,43 @@
+*{text-decoration: none;}
+.control {
+
+	display: flex;
+}
+
+.name-home {
+	
+	width: 60%;
+	padding-left: 40px;
+	margin-top: 180px;
+
+}
+
+.image-home {
+
+	width: 40%;
+	padding-left: 50px;
+	margin-bottom: 40px;
+}
+
+.footercontainer {
+	
+	display: center;
+	background-color: lightblue;
+
+}
+
+.button {
+
+	background-color: lightblue;
+	font-size: 14px;
+	font-family: oswald;
+	
+}
+
+td {
+	color: black;
+}
+
+.logo {
+	float: left;
+}

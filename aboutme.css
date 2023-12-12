@@ -1,0 +1,24 @@
+*{text-decoration: none;}
+
+.footercontainer {
+	
+	display: center;
+	background-color: lightblue;
+
+}
+
+.button {
+
+	background-color: lightblue;
+	font-size: 14px;
+	font-family: oswald;
+}
+
+.table {
+
+	margin-top: 20px;
+}
+
+.logo {
+	float: left;
+}

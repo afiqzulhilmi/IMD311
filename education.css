@@ -1,0 +1,50 @@
+*{text-decoration: none;}
+
+.footercontainer {
+	
+	display: center;
+	background-color: lightblue;
+
+}
+
+.button {
+
+	background-color: lightblue;
+	font-size: 14px;
+	font-family: oswald;
+}
+
+.primary {
+
+	display: flex;
+
+}
+
+.primary-logo {
+	
+	width: 20%;
+	padding-left: 40px;
+	margin-top: 180px;
+
+}
+
+.primary-content {
+
+	width: 20%;
+	padding-left: 50px;
+	margin-bottom: 40px;
+}
+
+.logo {
+
+	float: left;
+}
+
+.achieve {
+
+	display: flex;
+}
+
+.list {
+	display: flex;
+}
